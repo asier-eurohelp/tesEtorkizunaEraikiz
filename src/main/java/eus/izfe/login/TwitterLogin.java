@@ -29,9 +29,9 @@ public class TwitterLogin {
 	@Test
 	public void testLogin() {
 
-		String consumerKey ="Ma2GQOGw1SoHM7sxeMcK4G2pz";
-		String consumerSecret ="970980458656825344-EEMylTEGLO5AcLsDWbjlhxfmRqvIell";
-		String token="aalcorta.eurohelp@gmail.com";
+		String consumerKey ="XXXXXXXXXXXXXXXXXXXXXXX";
+		String consumerSecret ="XXXXXXXXXXXXXXXXXXXXXXXX";
+		String token="XXXXXXXXXXXXXX@gmail.com";
 		String secret="XXXXXXXX";
 		/**
 		 * Set up your blocking queues: Be sure to size these properly based on expected
