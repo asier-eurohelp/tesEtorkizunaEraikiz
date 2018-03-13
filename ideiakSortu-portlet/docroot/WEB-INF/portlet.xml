@@ -16,6 +16,7 @@
 			<portlet-mode>edit</portlet-mode>
 		</supports>
 		<supported-locale>eu_ES</supported-locale>
+		<supported-locale>es_ES</supported-locale>
 		<resource-bundle>content.Language</resource-bundle>
 		<portlet-info>
 			<title>Ideiak_sortu</title>
